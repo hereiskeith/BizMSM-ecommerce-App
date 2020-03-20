@@ -6,3 +6,17 @@ It just takes merchants and customers several seconds to set up their accounts o
 
 ## Demo
 
+### Home Page
+![Homepage](gif/homepage-sign-in.gif)
+
+### Change location and Search
+![Location and Search](gif/location-search.gif)
+
+### Wallet & Transaction & Block-chain Verify
+![Wallet](gif/wallet-verify.gif)
+
+### Voucher & Store
+![Voucher and Store](gif/vouchers.gif)
+
+### Merchant System
+![Merchant System](gif/merchant.gif)
