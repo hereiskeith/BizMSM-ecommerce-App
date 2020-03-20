@@ -8,25 +8,25 @@ It just takes merchants and customers several seconds to set up their accounts o
 
 It may take some time to load gif files.
 
-1. Home Page
+### 1. Home Page
 ![Homepage](gif/homepage-sign-in.gif)
 
 <p>&nbsp;</p>
 
-2. Change location and Search
+### 2. Change location and Search
 ![Location and Search](gif/location-search.gif)
 
 <p>&nbsp;</p>
 
-3. Wallet & Transaction & Block-chain Verify
+### 3. Wallet & Transaction & Block-chain Verify
 ![Wallet](gif/wallet-verify.gif)
 
 <p>&nbsp;</p>
 
-4. Voucher & Store
+### 4. Voucher & Store
 ![Voucher and Store](gif/vouchers.gif)
 
 <p>&nbsp;</p>
 
-5. Merchant System
+### 5. Merchant System
 ![Merchant System](gif/merchant.gif)
